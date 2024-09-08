@@ -1,0 +1,39 @@
+/* p:hover,
+address:hover {
+    color: aqua;
+}
+ */
+
+
+
+.last {
+    background-color:44;
+    color: white;
+    height: 50vh;
+	
+	
+}
+
+.last
+a:hover {
+    /* background:#2bab0d; */
+    background: red;
+    /* background:rgba(197, 33, 5, 0.945); */
+    border-radius: 3px;
+    padding: 4px, 0, 4px, 0;
+}
+
+.text1 {
+    /* font-size: 20px; */
+    color: white;
+    /* line-height: 40px; */
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+.h31 {
+    color: while;
+    text-align: left;
+}
+

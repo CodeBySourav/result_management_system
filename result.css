@@ -1,0 +1,30 @@
+
+
+table{
+	
+	width:90%;
+	margin-left:90px;
+}
+
+body{
+	
+	background-color: #67B26F; 
+    padding: 40px;
+    margin: 70px;
+    font-family: 'Lato', sans-serif;
+    color: #000;
+}
+  
+.text-center{
+    text-align: center;
+    color: blue;
+}
+.text-center1{
+    text-align: center;
+    
+}
+
+.bt-me{
+    background-color: rgba(92, 179, 230, 0.815);
+    padding-right: 20px;
+}
